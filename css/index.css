@@ -1,0 +1,30 @@
+body{
+    background-color: #a51cc7;
+    
+}
+.qPanel{
+    background-color: #b488be;
+    border: none;
+    border-radius: 10px ;
+    padding: 20px ;
+    width : 60% ;
+    font-size: 15pt;
+}
+.ques{
+    font-size: 18pt;
+    font-weight: bold ;
+}
+.nxtBtn{
+    float: left;
+    border: none ;
+    font-size: 18pt;
+    background-color: rgb(152, 209, 61);
+    color: #2d1b33;
+    padding: 10px ;
+    width: 60px ;
+    height: 35px ;
+}
+.lftCss{
+    padding : 10px ;
+    float: left;
+}
